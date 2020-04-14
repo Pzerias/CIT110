@@ -1,0 +1,6 @@
+C:\Users\pzesh\Desktop\CIT 110\Week 01\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+C:\Users\pzesh\Desktop\CIT 110\Week 01\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe
+C:\Users\pzesh\Desktop\CIT 110\Week 01\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.pdb
+C:\Users\pzesh\Desktop\CIT 110\Week 01\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csprojAssemblyReference.cache
+C:\Users\pzesh\Desktop\CIT 110\Week 01\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.exe
+C:\Users\pzesh\Desktop\CIT 110\Week 01\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb
